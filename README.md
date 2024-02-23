@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.hatoweb.com/](https://www.hatoweb.com/)
 
-- 💬 Ask me about **Experienced web developer proficient in PHP, Laravel, and advanced WordPress, with a strong command of JavaScript. My expertise extends to database management using MySQL and PostgreSQL.**
+- 💬 Ask me about **I'm PHP web developer with 10+ experience in this field. I can create your business website according to you requirements in given time. I'm specialize in website backend development using PHP, MySQL and JavaScript. In addition to PHP, i am also proficient in JavaScript, Jquery, SQL, Node.js and MongoDB**
 
 - 📫 How to reach me **project@hatoweb.com**
 
